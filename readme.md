@@ -1,1 +1,1 @@
-![Screenshot](./images/ss.PNG)
+https://groottalking.netlify.app/
